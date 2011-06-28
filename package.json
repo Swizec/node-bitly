@@ -1,9 +1,9 @@
 {
-  "name": "bitly",
-  "description": "A Bit.ly API library for Node.JS",
+  "name": "swizec-bitly",
+  "description": "A Bit.ly API library for Node.JS; forked to help with install until original is fixed",
   "version": "1.0.1",
   "author": "Tane Piper <github@tanepiper.com>",
-  "contributors": [ 
+  "contributors": [
     { "name": "Tane Piper", "email": "github@tanepiper.com" },
     { "name": "François de Metz", "email": "francois@2metz.fr" }
   ],
@@ -11,7 +11,7 @@
   "main": "lib/bitly/Bitly.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/tanepiper/node-bitly.git"
+    "url": "https://github.com/Swizec/node-bitly.git"
   },
   "engines": { "node": ">= 0.4.0" }
 }
